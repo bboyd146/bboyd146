@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4Vc5jDgVX5V0k/giphy.gif" width="300" alt="Animated Coding"/>
+   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIyZ3hwZXVlbWcybmRkdGgxeTFzOTQ5eWdud3BreHA5djUxNHBuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="300" alt="Animated Coding"/>
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:brad.dev25@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/bboyd146/">
+  <a href="https://www.linkedin.com/in/bradleydboyd">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/bboyd146">
@@ -95,8 +95,8 @@ I specialize in:
 ## ✉️ Contact Me
 I’m open to **collaborations, freelance projects, or AI innovations**.  
 
-- **Email:** your-email@example.com  
-- **LinkedIn:** [bboyd146](https://www.linkedin.com/in/bboyd146/)  
+- **Email:** brad.dev25@gmail.com  
+- **LinkedIn:** ([LinkedIn](https://www.linkedin.com/in/bradleydboyd/))  
 - **Twitter:** [@bboyd146](https://twitter.com/bboyd146)  
 
 > ⚡ Fun Fact: I love turning **complex AI concepts into sleek apps**. 🚀
